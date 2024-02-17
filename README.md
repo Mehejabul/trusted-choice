@@ -1,7 +1,7 @@
 <p align="center"><a href="https://apol.com.bd" target="_blank">
 <img src="https://apol.com.bd/wp-content/uploads/2018/06/APOL_LOGO.png" width="400"></a></p>
 
-## About Apol POS
+## 
 
 Apol POS is a web application POS with expressive, elegant model. We believe software must be an enjoyable and creative experience to be truly fulfilling. Apol POS takes the pain out of store all data for business by easing common tasks.
 
