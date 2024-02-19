@@ -158,7 +158,7 @@ $(document).ready(function(e) {
       adaptiveHeight: true,
       responsive: [
         {
-            breakpoint: 1439,
+            breakpoint: 1600,
             settings: {
             slidesToShow: 1,
             slidesToScroll: 1,
@@ -167,6 +167,16 @@ $(document).ready(function(e) {
             autoplaySpeed: 2000,
             swipe: true }
       },
+      {
+        breakpoint: 1200,
+        settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        swipe: true }
+  },
         {
             breakpoint: 1024,
             settings: {
